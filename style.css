@@ -89,3 +89,15 @@ body {
     flex: 1;
     width: 320px;
 }
+
+.lore {
+    justify-self: center;
+    align-self: center;
+    padding: 20px;
+    text-shadow: 0 0 20px black;
+}
+
+.lore br {
+    display: block;
+    margin: 10px 0;
+}
